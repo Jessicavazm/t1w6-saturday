@@ -52,3 +52,6 @@ Terminates the loop immediately, it moves to the next statement after the loop.
 
 ## Continue statement
 Skips the rest of the code inside of the loop for current interaction and moves to the next interaction.
+
+# Nested loops
+A loop inside another loop. It's useful for running over multi dimensional structures like MATRIX.
