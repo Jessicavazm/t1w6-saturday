@@ -55,3 +55,12 @@ Skips the rest of the code inside of the loop for current interaction and moves 
 
 # Nested loops
 A loop inside another loop. It's useful for running over multi dimensional structures like MATRIX.
+
+# Enumerate() function
+Used to access the index and the value of elements of the list using two variables in the FOR loop.
+
+# Lists
+They can store different values
+e.g list contains integer and string
+
+random_list = [1,150,"Jess",3]
