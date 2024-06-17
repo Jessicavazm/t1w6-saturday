@@ -31,8 +31,24 @@ While the condition is met, keep executing the intended block, if not met, skip 
 * Make sure program can meet condition to enter the loop
 * Make sure program can meet condition to exit the loop
 
+
+# For loops
+For each element in the list, execute the intended statement block.
+
+for variable_name in sequence:
+    execute this
+
 # Range
 It's a pre-defined function that generates a sequence of numbers, it's useful in LOOPS for
 iterating a specific number of times over a sequence of numbers.
 
 range(start, stop, step)
+
+# Loop control statements
+Control the flow of the loop, terminate the loop earlier if you want to or skip over some interaction.
+
+## Break statement
+Terminates the loop immediately, it moves to the next statement after the loop.
+
+## Continue statement
+Skips the rest of the code inside of the loop for current interaction and moves to the next interaction.
