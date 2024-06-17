@@ -30,3 +30,9 @@ IF STATEMENT = If condition would decide wether or not to run the intended block
 While the condition is met, keep executing the intended block, if not met, skip the block.
 * Make sure program can meet condition to enter the loop
 * Make sure program can meet condition to exit the loop
+
+# Range
+It's a pre-defined function that generates a sequence of numbers, it's useful in LOOPS for
+iterating a specific number of times over a sequence of numbers.
+
+range(start, stop, step)
